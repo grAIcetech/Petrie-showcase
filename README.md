@@ -12,9 +12,9 @@ The Institute supplies the briefs and their editorial analysis. GrAIce Tech supp
 
 ## Current status
 
-The reader is reachable at **petrie.graice.tech**. The latest independently verified production deployment is dated **October 6, 2026**; this showcase does not represent the archive as current through today.
+The reader is reachable at **petrie.graice.tech**. On **October 21, 2026**, a historical backfill was published and its live dataset hash verified: **27 editions**, with the latest received source edition dated **October 20**. No October 21 source email was found in the latest check. [Publication record](https://petrie.graice.tech/publication.json).
 
-Content backfill, verified daily publication, and the revised visual design remain in progress. Read-only API access, a remote MCP interface, and browser WebMCP capabilities are planned; no working endpoints or availability are claimed here.
+Autonomous daily ingestion and its notification delivery remain unverified. The revised visual prototype is awaiting review; the production reader retains its existing layout. Read-only API access, a remote MCP interface, and browser WebMCP capabilities are planned; no working endpoints or availability are claimed here.
 
 ## Report a problem
 
