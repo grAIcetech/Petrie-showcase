@@ -14,7 +14,7 @@ The Institute supplies the briefs and their editorial analysis. grAIce tech supp
 
 The reader is reachable at **petrie.graice.tech**. On **October 21, 2026**, a historical backfill was published and its live dataset hash verified: **31 editions / 270 stories**, through the latest received source edition dated **October 21**. Four missing editions were recovered by including Spam in the source-mail search; the sweep now covers that folder. [Publication record](https://petrie.graice.tech/publication.json).
 
-The dedicated sweep, retry, exact publication checks and corrective-issue workflow are committed and pass 28 tests. Autonomous daily ingestion and human notification delivery remain unverified while protected service credentials are configured. The revised visual prototype is awaiting review; the production reader retains its existing layout. Read-only API access, a remote MCP interface, and browser WebMCP capabilities are planned; no working endpoints or availability are claimed here.
+The dedicated sweep, retry, exact publication checks and corrective-issue workflow are committed and pass 32 tests. Autonomous daily ingestion and human notification delivery remain unverified while protected service credentials are configured. The revised visual prototype is awaiting review; the production reader retains its existing layout. Read-only API access, a remote MCP interface, and browser WebMCP capabilities are planned; no working endpoints or availability are claimed here.
 
 ## Report a problem
 
