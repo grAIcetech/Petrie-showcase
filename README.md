@@ -12,9 +12,11 @@ The Institute supplies the briefs and their editorial analysis. grAIce tech supp
 
 ## Current status
 
-The reader is reachable at **petrie.graice.tech**. On **October 21, 2026**, a historical backfill was published and its live dataset hash verified: **31 editions / 270 stories**, through the latest received source edition dated **October 21**. Four missing editions were recovered by including Spam in the source-mail search; the sweep now covers that folder. [Publication record](https://petrie.graice.tech/publication.json).
+On **October 22, 2026, at 08:57 Central**, both reader addresses were independently verified current through the October 22 source edition: **32 editions / 280 stories**. Today's 10 source-linked headlines, short Daily AI Smile, and explicitly dated October 21 closing snapshots match the authenticated Institute email. All earlier editions were preserved. [Publication record](https://petrie.graice.tech/publication.json).
 
-The dedicated sweep, retry, exact publication checks and corrective-issue workflow are committed and pass 32 tests. Autonomous daily ingestion and human notification delivery remain unverified while protected service credentials are configured. The owner-approved Astra reading interface is now deployed at petrie.graice.tech, with the October 21 dataset preserved and live data verification passed. The 3D motion hero remains outstanding. Read-only API access, a remote MCP interface, and browser WebMCP capabilities are planned; no working endpoints or availability are claimed here.
+The owner-approved Astra reading interface and blue-to-ivory P motion hero are deployed. The content release preserves all four approved UI assets byte-for-byte. A changed source market format was repaired with strict text/HTML agreement checks; all 39 tests and the six-asset build pass.
+
+The dedicated sweep, retry, exact publication checks and corrective-issue workflow are committed. **Unattended daily ingestion and human notification delivery remain unverified.** Today's connected-service recovery is distinct from the independent daily publisher, whose protected configuration still requires completion. Read-only API access, a remote MCP interface, browser WebMCP capabilities and billing are planned; no working endpoints or availability are claimed here.
 
 ## Report a problem
 
