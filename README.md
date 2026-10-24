@@ -12,11 +12,11 @@ The Institute supplies the briefs and their editorial analysis. grAIce tech supp
 
 ## Current status
 
-On **October 23, 2026, at 08:53 Central**, both reader addresses were independently verified through the October 23 source edition: **33 editions / 290 stories**. Today's ten source-linked headlines, short Daily AI Smile, and six explicitly dated October 22 closing snapshots match the authenticated Institute email. All earlier editions and supplemental history were preserved. [Publication record](https://petrie.graice.tech/publication.json).
+On **October 24, 2026, at 08:29 Central**, both reader addresses were independently verified through the authenticated Saturday **AI Week in Perspective** edition: **34 editions /290 stories**. All12 attributed source links match the Institute's email and HTML alternative. The weekly edition is clearly labeled as a source index; no editorial analysis was generated. All earlier editions and supplemental history are preserved. [Publication record](https://petrie.graice.tech/publication.json).
 
-The owner-approved Astra interface and blue-to-ivory P motion hero remain deployed and unchanged. Today's source-layout changes were handled with strict parsing and text/HTML checks. A delayed-schedule defect that silently skipped real audits was also repaired. All **47 tests** and the six-asset build pass.
+Saturday's source contains no market snapshot or Daily AI Smile. Those absences are recorded; older material retains its actual source dates. The approved Astra interface and P motion hero are unchanged. All **47 tests** and the six-asset build pass.
 
-A real publisher readiness run detected a missing source credential and automatically opened an assigned corrective issue. **Unattended publication, human notification delivery, and recovery remain unverified** pending protected configuration. Today's connected-service publication recovery is distinct from the independent daily publisher. Read-only API access, remote MCP, browser WebMCP and billing remain planned; no working endpoints or availability are claimed here.
+The delayed scheduled publisher now performs real checks and automatically updates an assigned corrective issue when access is missing. **Unattended publication, human notification delivery and recovery remain unverified** pending protected configuration. Today's connected-service recovery is distinct from the dedicated publisher. API access, remote MCP, browser WebMCP and billing remain planned; no working endpoints or availability are claimed.
 
 ## Report a problem
 
