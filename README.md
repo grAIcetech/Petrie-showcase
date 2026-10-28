@@ -12,11 +12,11 @@ The Institute supplies the briefs and their editorial analysis. grAIce tech supp
 
 ## Current status
 
-On **October 27, 2026, at 08:24 Central**, both reader addresses were independently verified through the authenticated Tuesday source: **36 editions / 310 stories**, ten new source-linked headlines, a short Daily AI Smile and eight explicitly dated **Monday October 26 closing quotes**. Prices are historical source-reported figures, not live or Tuesday closes. All prior editions and supplements are preserved. [Publication record](https://petrie.graice.tech/publication.json).
+On **October 28, 2026, at 08:10 Central**, both reader addresses matched the authenticated Wednesday source: **37 editions / 320 stories**, ten new source-linked headlines, a short Daily AI Smile and eight explicitly dated **October 27 closing quotes**. All previous editions and supplemental history are preserved. Prices are historical source-reported figures, not live. [Publication record](https://petrie.graice.tech/publication.json).
 
-The approved interface and blue-to-ivory P hero are unchanged. A narrow market-parser extension checks the source's new layout for exact text/HTML date/time, columns, prices, changes, directions and ticker-history URL agreement. All **53 tests** and the build pass. Exact live data/metadata hashes and actual browser rendering were verified.
+The approved interface and blue-to-ivory P hero remain unchanged. A narrow parser extension handles the source's semicolon market rows with strict text/HTML date, approximate session time, currency, price, direction and ticker-source URL agreement. All **55 tests** and the build pass. Exact live data/metadata hashes and actual browser rendering were verified.
 
-The dedicated publisher still reports a missing protected source credential and automatically updates an assigned corrective issue. **Unattended publication, human notification delivery and recovery remain unverified.** Today's connected-service recovery is distinct from the independent publisher. API access, remote MCP, browser WebMCP and billing remain planned; no working endpoints or availability are claimed.
+The dedicated publisher still reports a missing protected source credential and updates an assigned corrective issue. **Unattended publication, human notification delivery and recovery remain unverified.** Today's connected-service recovery is distinct from the independent publisher. API, remote MCP, browser WebMCP and billing remain planned.
 
 ## Report a problem
 
