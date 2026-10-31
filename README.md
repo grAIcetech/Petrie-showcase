@@ -12,9 +12,9 @@ The Institute supplies the briefs and their editorial analysis. grAIce tech supp
 
 ## Current status
 
-On **October30, 2026, at08:47 Central**, both reader addresses matched the authenticated Friday source: **39 editions /340 stories**, ten new source-linked headlines, the short Daily AI Smile and eight explicitly dated **October29 closing quotes**. All earlier editions and supplemental history remain preserved. [Publication record](https://petrie.graice.tech/publication.json).
+On **October 31, 2026, at 08:16 Central**, both reader addresses matched Saturday's authenticated weekly perspective: **40 editions / 340 stories**, including all **14 source links** checked in order against text and HTML. [Publication record](https://petrie.graice.tech/publication.json).
 
-The approved interface and blue-to-ivory P hero remain unchanged. All **62 tests** and the build pass; exact live data/metadata hashes and actual browser rendering were verified. The source supplies only NVIDIA's individual market URL; that link remains scoped to NVIDIA, with missing-link and independent-verification limitations recorded for the other quotes. No links were invented.
+The weekly edition is an attributed source index, with no generated editorial analysis. It supplies no new market snapshot or joke; earlier figures and jokes retain their explicit source dates. All earlier editions and supplemental history are preserved. The approved interface and blue-to-ivory P hero are unchanged. All **63 tests** and build pass; exact live hashes and browser rendering were verified.
 
 The dedicated publisher still reports a missing protected source credential and updates an assigned corrective issue. **Unattended publication, human notification delivery and recovery remain unverified.** Connected-service recovery is distinct from the independent publisher. API, remote MCP, browser WebMCP and billing remain planned.
 
