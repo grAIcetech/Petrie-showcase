@@ -12,11 +12,11 @@ The Institute supplies the briefs and their editorial analysis. grAIce tech supp
 
 ## Current status
 
-On **October 31, 2026, at 08:16 Central**, both reader addresses matched Saturday's authenticated weekly perspective: **40 editions / 340 stories**, including all **14 source links** checked in order against text and HTML. [Publication record](https://petrie.graice.tech/publication.json).
+On **November 1, 2026, at 08:36 Central Standard Time**, both reader addresses were independently verified against Saturday's authenticated **October31 weekly perspective: 40 editions / 340 stories**, with all14 source links matched in order against text and HTML. No Sunday source or edition is expected. [Publication record](https://petrie.graice.tech/publication.json).
 
-The weekly edition is an attributed source index, with no generated editorial analysis. It supplies no new market snapshot or joke; earlier figures and jokes retain their explicit source dates. All earlier editions and supplemental history are preserved. The approved interface and blue-to-ivory P hero are unchanged. All **63 tests** and build pass; exact live hashes and browser rendering were verified.
+Exact live data and dated metadata hashes, all four approved UI assets, and source correspondence passed. Content and the October31 publication timestamp remain unchanged; no new publication is claimed. Earlier editions and supplemental history are preserved. The weekly source has no new market snapshot or joke, and older figures/jokes retain explicit dates.
 
-The dedicated publisher still reports a missing protected source credential and updates an assigned corrective issue. **Unattended publication, human notification delivery and recovery remain unverified.** Connected-service recovery is distinct from the independent publisher. API, remote MCP, browser WebMCP and billing remain planned.
+The dedicated publisher still reports a missing protected source credential and updates an assigned corrective issue. **Unattended publication, human notification delivery and recovery remain unverified.** This audit and connected-service recovery are distinct from the independent publisher. API, remote MCP, browser WebMCP and billing remain planned.
 
 ## Report a problem
 
