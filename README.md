@@ -12,9 +12,9 @@ The Institute supplies the briefs and their editorial analysis. grAIce tech supp
 
 ## Current status
 
-On **November 1, 2026, at 08:36 Central Standard Time**, both reader addresses were independently verified against Saturday's authenticated **October31 weekly perspective: 40 editions / 340 stories**, with all14 source links matched in order against text and HTML. No Sunday source or edition is expected. [Publication record](https://petrie.graice.tech/publication.json).
+On **November 2, 2026, at 09:00 Central Standard Time**, both reader addresses were independently verified against Monday's authenticated source: **41 editions / 350 stories**. All ten actual story ranks, titles and ordered source links match text and HTML. Today's source joke is retained. [Publication record](https://petrie.graice.tech/publication.json).
 
-Exact live data and dated metadata hashes, all four approved UI assets, and source correspondence passed. Content and the October31 publication timestamp remain unchanged; no new publication is claimed. Earlier editions and supplemental history are preserved. The weekly source has no new market snapshot or joke, and older figures/jokes retain explicit dates.
+Exact live data and dated metadata hashes, all four approved UI assets, and source correspondence passed. Earlier editions and supplemental history are preserved. Today's market source supplies Friday October 30 numeric closes but omits currency and individual market URLs. Those raw numbers are retained with explicit limitations; new dollar-price values are withheld rather than inferred. Earlier confirmed price history remains dated October 29.
 
 The dedicated publisher still reports a missing protected source credential and updates an assigned corrective issue. **Unattended publication, human notification delivery and recovery remain unverified.** This audit and connected-service recovery are distinct from the independent publisher. API, remote MCP, browser WebMCP and billing remain planned.
 
