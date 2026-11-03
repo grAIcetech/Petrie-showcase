@@ -12,11 +12,11 @@ The Institute supplies the briefs and their editorial analysis. grAIce tech supp
 
 ## Current status
 
-On **November 2, 2026, at 09:00 Central Standard Time**, both reader addresses were independently verified against Monday's authenticated source: **41 editions / 350 stories**. All ten actual story ranks, titles and ordered source links match text and HTML. Today's source joke is retained. [Publication record](https://petrie.graice.tech/publication.json).
+On **November 3, 2026, at 08:10 Central Standard Time**, both addresses independently match today's authenticated source: **42 editions / 360 stories**, with all ten actual headline ranks/titles/ordered original links and today's joke matched against text and HTML. Exact data/publication metadata hashes and all four approved UI assets pass. Earlier editions and supplements are preserved. [Publication record](https://petrie.graice.tech/publication.json).
 
-Exact live data and dated metadata hashes, all four approved UI assets, and source correspondence passed. Earlier editions and supplemental history are preserved. Today's market source supplies Friday October 30 numeric closes but omits currency and individual market URLs. Those raw numbers are retained with explicit limitations; new dollar-price values are withheld rather than inferred. Earlier confirmed price history remains dated October 29.
+The market source explicitly labels changes as **seven-day trends, not daily changes**, and omits currency. Reported November 2 numeric closes/trends are retained with explicit limitations; new dollar-price values and daily changes are withheld rather than inferred. Only a general StockTitan rankings link is supplied. Earlier finite-price history remains dated October 29.
 
-The dedicated publisher still reports a missing protected source credential and updates an assigned corrective issue. **Unattended publication, human notification delivery and recovery remain unverified.** This audit and connected-service recovery are distinct from the independent publisher. API, remote MCP, browser WebMCP and billing remain planned.
+The dedicated publisher still reports a missing protected source credential and updates an assigned corrective issue. **Unattended publication, human notification delivery and recovery remain unverified.** Connected-service fallback recovery is distinct from the independent publisher. API, remote MCP, browser WebMCP and billing remain planned.
 
 ## Report a problem
 
