@@ -12,9 +12,9 @@ The Institute supplies the briefs and their editorial analysis. grAIce tech supp
 
 ## Current status
 
-On **November 3, 2026, at 08:10 Central Standard Time**, both addresses independently match today's authenticated source: **42 editions / 360 stories**, with all ten actual headline ranks/titles/ordered original links and today's joke matched against text and HTML. Exact data/publication metadata hashes and all four approved UI assets pass. Earlier editions and supplements are preserved. [Publication record](https://petrie.graice.tech/publication.json).
+On **November 4, 2026, at 08:16 Central Standard Time**, both addresses independently match today's authenticated source: **43 editions / 370 stories**. All ten actual headline ranks/titles/ordered source links and today's joke match text/HTML. Exact data/publication metadata hashes and all four approved UI assets pass. Earlier editions and supplemental history are preserved. [Publication record](https://petrie.graice.tech/publication.json).
 
-The market source explicitly labels changes as **seven-day trends, not daily changes**, and omits currency. Reported November 2 numeric closes/trends are retained with explicit limitations; new dollar-price values and daily changes are withheld rather than inferred. Only a general StockTitan rankings link is supplied. Earlier finite-price history remains dated October 29.
+Today's source explicitly supplies eight **November 3 closing prices**, dollar units, daily changes and per-company historical source links. These source-reported snapshots are displayed with their dates; they are not live or independently market-verified. Earlier currency-absent numbers and seven-day trends retain their explicit limitations.
 
 The dedicated publisher still reports a missing protected source credential and updates an assigned corrective issue. **Unattended publication, human notification delivery and recovery remain unverified.** Connected-service fallback recovery is distinct from the independent publisher. API, remote MCP, browser WebMCP and billing remain planned.
 
