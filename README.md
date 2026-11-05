@@ -12,9 +12,9 @@ The Institute supplies the briefs and their editorial analysis. grAIce tech supp
 
 ## Current status
 
-On **November 4, 2026, at 08:16 Central Standard Time**, both addresses independently match today's authenticated source: **43 editions / 370 stories**. All ten actual headline ranks/titles/ordered source links and today's joke match text/HTML. Exact data/publication metadata hashes and all four approved UI assets pass. Earlier editions and supplemental history are preserved. [Publication record](https://petrie.graice.tech/publication.json).
+On **November 5, 2026, at 08:12 Central Standard Time**, both addresses independently match today's authenticated source: **44 editions / 380 stories**. All ten actual headline ranks/titles/ordered source links and today's joke match text/HTML. Exact data/publication metadata hashes and all four approved UI assets pass. Earlier editions and supplemental history are preserved. [Publication record](https://petrie.graice.tech/publication.json).
 
-Today's source explicitly supplies eight **November 3 closing prices**, dollar units, daily changes and per-company historical source links. These source-reported snapshots are displayed with their dates; they are not live or independently market-verified. Earlier currency-absent numbers and seven-day trends retain their explicit limitations.
+Today's source reports eight **November 4 dollar closing prices and daily changes**. Only Nvidia's individual historical source URL is supplied; the other seven retain explicit missing-link limitations, with no URLs invented. These are dated source-reported snapshots, not live or independently market-verified. Earlier missing-currency and seven-day trend limitations remain intact.
 
 The dedicated publisher still reports a missing protected source credential and updates an assigned corrective issue. **Unattended publication, human notification delivery and recovery remain unverified.** Connected-service fallback recovery is distinct from the independent publisher. API, remote MCP, browser WebMCP and billing remain planned.
 
