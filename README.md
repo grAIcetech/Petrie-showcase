@@ -12,11 +12,11 @@ The Institute supplies the briefs and their editorial analysis. grAIce tech supp
 
 ## Current status
 
-On **November 6, 2026, at 08:11 Central Standard Time**, both addresses independently match today's authenticated source: **45 editions / 390 stories**. All ten actual headline ranks/titles/ordered source links and today's joke match text/HTML. Exact data/publication metadata hashes and all four approved UI assets pass. Earlier editions and supplemental history are preserved. [Publication record](https://petrie.graice.tech/publication.json).
+On **November 7, 2026, at 08:23 Central Standard Time**, both addresses match Saturday's authenticated weekly perspective: **46 editions / 390 stories**. All 16 ordered source links and attribution labels were checked against the text and HTML email. The approved design and all earlier edition and supplement history are preserved. [Publication record](https://petrie.graice.tech/publication.json).
 
-Today's source reports eight **November 5 dollar closing prices and one-day changes**, each with its own supplied history URL. Original direction labels and the HTML's approximate 4pm Eastern qualification are preserved. These are dated source-reported snapshots, not live or independently market-verified; older missing-currency, missing-link and seven-day limitations remain intact.
+Saturday's source contains a weekly index without a daily market snapshot or joke. The latest closing quotes remain dated November 5; the latest joke remains dated November 6.
 
-The dedicated publisher still reports a missing protected source credential and updates an assigned corrective issue. **Unattended publication, human notification delivery and recovery remain unverified.** Connected-service fallback recovery is distinct from the independent publisher. API, remote MCP, browser WebMCP and billing remain planned.
+The dedicated publisher still reports a missing protected Gmail credential and updates an assigned corrective issue. **Unattended publication, human alert delivery and recovery remain unverified.** Today's fallback is verified separately. API, remote MCP, browser WebMCP and billing remain planned.
 
 ## Report a problem
 
